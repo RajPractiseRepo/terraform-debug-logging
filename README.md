@@ -101,8 +101,7 @@ This would store the logs in terraform.log in the current directory. Remember th
 
 
 
-# Conclusion:
-By leveraging TF_LOG, Terraform users can significantly improve their debugging and troubleshooting workflows. This approach simplifies the process of identifying and resolving issues in infrastructure code, providing clear and actionable insights through detailed logging. With practical TF_LOG usage, managing Terraform configurations becomes more efficient and reliable, allowing teams to better maintain and scale their infrastructure with confidence.
+
 
 
 
@@ -124,6 +123,20 @@ By leveraging TF_LOG, Terraform users can significantly improve their debugging 
 
 
 ![3-writing-logs-to-file1](https://github.com/user-attachments/assets/2685ad1b-3f3f-4d17-8b1a-902681d1a21e)
+
+
+
+
+
+
+
+
+
+
+
+
+# Conclusion:
+By leveraging TF_LOG, Terraform users can significantly improve their debugging and troubleshooting workflows. This approach simplifies the process of identifying and resolving issues in infrastructure code, providing clear and actionable insights through detailed logging. With practical TF_LOG usage, managing Terraform configurations becomes more efficient and reliable, allowing teams to better maintain and scale their infrastructure with confidence.
 
 
 
