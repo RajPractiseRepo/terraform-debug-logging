@@ -83,7 +83,7 @@ Terraform provides the `TF_LOG` environment variable for controlling log verbosi
     ```
 
 
-
+This would store the logs in terraform.log in the current directory. Remember that setting a verbose log level like TRACE or DEBUG will produce a lot of output, so use it judiciously.
 
 
 
